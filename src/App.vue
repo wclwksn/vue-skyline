@@ -43,7 +43,7 @@ export default {
   },
   mounted() {
     selfscope.initTE();
-    SGWorld.Project.Open("E:\\gisdata\\localkit\\Default.fly", false, "", "");
+    SGWorld.Project.Open("fly文件的地址", false, "", "");
 
     window.onresize = function() {
       selfscope.initTE();

@@ -1,8 +1,13 @@
 # vue-skyline
 
-> A Vue.js project
+> 使用vue集成skyline的三维球控件
 
+#### 实现
++ TE的控件放在App.vue中，也可以制作vue的组件进行集成。
++ 测试了一个弹出窗口的效果。
++ 
 ## Build Setup
+### vue基本运行过程
 
 ``` bash
 # install dependencies
@@ -14,14 +19,5 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#### 技术问题讨论
