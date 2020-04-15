@@ -21,3 +21,4 @@ npm run build
 
 ```
 #### 技术问题讨论
+![公众号](https://github.com/wclwksn/threejs-maps-sandbox/blob/master/image/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
